@@ -14,7 +14,6 @@ class Song
 
    def initialize
      super
-     @name = name
    end
 
    def self.all
