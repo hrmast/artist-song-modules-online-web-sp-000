@@ -15,7 +15,6 @@ class Artist
 
   def initialize
     super
-    @name = name
     @songs = []
   end
 
